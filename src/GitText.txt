@@ -1,1 +1,2 @@
-Tracking our first Git 
+Tracking our first Git
+...
